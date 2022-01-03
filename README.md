@@ -1,9 +1,11 @@
 # randomgen
 
-Random number generator
+### Random number generator
 
 Proof of concept
 
-Compiled in ubuntu linux
+#### Compiled in ubuntu linux
 
-cc rand.c 
+```shell
+cc rand.c
+```
